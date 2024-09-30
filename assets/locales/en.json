@@ -1,0 +1,11 @@
+{
+  "main": {
+    "title": "Welcome to Weather App"
+  },
+  "login": {
+    "title": "To access the weather information, please login."
+  },
+  "locations": {
+    "title": "Check your favorite locations"
+  }
+}
